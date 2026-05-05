@@ -1,0 +1,13 @@
+SALLE classique
+SALLE byzantin
+SALLE moderne
+ARTEFACT classique SCULPTURE
+ARTEFACT classique VASE
+ARTEFACT byzantin VETEMENT
+ARTEFACT byzantin PEINTURE
+ARTEFACT moderne PEINTURE
+ARTEFACT moderne SCULPTURE
+LIEN entree classique
+LIEN classique byzantin
+LIEN byzantin moderne
+LIEN moderne sortie

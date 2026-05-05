@@ -1,0 +1,19 @@
+SALLE eperon
+SALLE crypte
+SALLE douane
+SALLE station
+SALLE marins
+ARTEFACT eperon SCULPTURE
+ARTEFACT eperon VETEMENT
+ARTEFACT crypte VASE
+ARTEFACT douane PEINTURE
+ARTEFACT douane LIVRE
+ARTEFACT marins SCULPTURE
+LIEN entree eperon
+LIEN eperon crypte
+LIEN crypte douane
+LIEN douane station
+LIEN station marins
+LIEN marins sortie
+LIEN eperon douane
+LIEN crypte station
